@@ -1,0 +1,20 @@
+<Trader> Russia174							
+   <Category> Rassvet camo
+	 Russia174_Rassvet_camo_gorka_Jacket,     *,    500,    100
+     Russia174_Rassvet_camo_alicebac,         *,    700,    140
+     Russia174_Rassvet_camo_SmershVest,       *,    500,    100
+     Russia174_Rassvet_camo_SmershBag,        *,    500,    100
+     Russia174_Rassvet_camo_tacticalVest,     *,    600,    120
+     Russia174_Rassvet_camo_gorka_pants,      *,    500,    100
+     Russia174_Rassvet_camo_Mich2001Helmet,   *,    600,    120
+     Russia174_Rassvet_camo_tacticalGloves,   *,    600,    120
+	 
+  <Category> Kepka
+     Russia174_Sweater,                       *,     200,   40
+     Russia174_Jeans,                         *,     200,   40
+     Russia174_BaseballCap,                   *,     150,   30	 
+	 
+  <Category> Admin
+     Russia174_Admin_camo_gorka_Jacket,       *,     1000,  200
+	 Russia174_Admin_TacticalVest,            *,     1000,  200
+	 Russia174_Admin_camo_gorka_pants,        *,     1000,  200
